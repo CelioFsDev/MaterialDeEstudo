@@ -14,7 +14,7 @@ import Foundation
 10- Vai em new Key e coloca um nome e a chave capiturada no item 7/8
 11- Ai agora ja pode criar um repositorio direto pelo github ou entrar em um projeto e vincular criando um novo repositorio pelo proprio xcode
  11.1- Para criar um repositorio por um projeto ja existente no pc, entre no projeto vai na aba Show the Source Control, depois em remotes não tera nada, cliQue com botom direito.
- 11.2- Depois aparecera new remote clica nele e cria um repositorio direto no github,
+ 11.2- Depois aparecera new remote clica nele e cria um repositorio direto no github, ou se ja existe um remote repositorio so colar o link ssh dele la.
  11.3 Feito isso ja consegue commitar pelo Source Control e da um push
  11.4 Com isso os arQuivos ja estara no github
 */
