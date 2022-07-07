@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='String Int Double Float Operadores logicos'/>
+        <page name='Funções '/>
+        <page name='Funçoes 2'/>
+        <page name='Manipulação de String'/>
+        <page name='Raw Strings'/>
+        <page name='Optionals'/>
+        <page name='Controle de Fluxo'/>
+        <page name='if Statement'/>
+        <page name='Loops While repeat for switch'/>
+        <page name='Collections'/>
+        <page name='Closures'/>
+        <page name='Struct'/>
+        <page name='Enum'/>
+        <page name='Class'/>
+        <page name='Herança '/>
+        <page name='Encapsulamento'/>
+        <page name='Polimorfismo'/>
+        <page name='Type Casting'/>
+        <page name='Extension'/>
+        <page name='Class vs Struct'/>
+        <page name='deinit'/>
+    </pages>
+</playground>
