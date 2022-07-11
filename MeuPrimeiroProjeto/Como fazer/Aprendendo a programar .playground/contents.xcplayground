@@ -22,5 +22,10 @@
         <page name='Extension'/>
         <page name='Class vs Struct'/>
         <page name='deinit'/>
+        <page name='GitHub'/>
+        <page name='protocols'/>
+        <page name='Delegation'/>
+        <page name='ARC unowned e weak'/>
+        <page name='tableView'/>
     </pages>
 </playground>
